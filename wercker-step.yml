@@ -1,0 +1,13 @@
+name: ionic-upload
+version: 0.1.0
+description: Upload 'Ionic' projects based on yo ionic to 'Ionic View'.
+keywords:
+  - ionic
+  - upload
+properties:
+  app_id:
+    type: string
+    required: true
+  api_key:
+    type: string
+    required: true
